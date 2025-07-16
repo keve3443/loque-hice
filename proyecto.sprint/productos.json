@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "comida para gatos",
+        "precio": "15000",
+        "imagen": "C:\\Users\\kevin\\OneDrive\\Documentos\\proyectos de programacion\\Nueva-carpeta\\interfaz graf 2\\infratriz_grafica\\programacion de computadoras\\ringogato.png",
+        "stock": 8,
+        "descripcion": "Alimento completo y balanceado para gatos adultos de todas las razas. Rico en proteínas y nutrientes esenciales para una vida sana y feliz."
+    },
+    {
+        "nombre": "comida para perro",
+        "precio": "25000",
+        "imagen": "C:\\Users\\kevin\\OneDrive\\Documentos\\proyectos de programacion\\Nueva-carpeta\\interfaz graf 2\\infratriz_grafica\\programacion de computadoras\\perro.png",
+        "stock": 14,
+        "descripcion": "Nutrición superior para perros adultos, con ingredientes seleccionados para una digestión óptima y un pelaje brillante. ¡Tu mejor amigo lo amará!"
+    },
+    {
+        "nombre": "comida para gatos pequenos",
+        "precio": "10000",
+        "imagen": "C:\\Users\\kevin\\OneDrive\\Documentos\\proyectos de programacion\\Nueva-carpeta\\interfaz graf 2\\infratriz_grafica\\programacion de computadoras\\gato_pequeño.png",
+        "stock": 19,
+        "descripcion": "Fórmula especial para gatitos y gatos jóvenes, que apoya su crecimiento y desarrollo con un sabor irresistible."
+    },
+    {
+        "nombre": "comida para cachorros",
+        "precio": "20000",
+        "imagen": "C:\\Users\\kevin\\OneDrive\\Documentos\\proyectos de programacion\\Nueva-carpeta\\interfaz graf 2\\infratriz_grafica\\programacion de computadoras\\perros_pequeños.png",
+        "stock": 11,
+        "descripcion": "Diseñada para cachorros en crecimiento, con el equilibrio perfecto de vitaminas y minerales para huesos fuertes y mucha energía."
+    }
+]

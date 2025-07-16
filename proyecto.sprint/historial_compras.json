@@ -1,0 +1,26 @@
+[
+    {
+        "id_transaccion": "20250715224825936020",
+        "usuario": "kevin",
+        "fecha": "2025-07-15 22:48:25",
+        "metodo_pago": "Efectivo",
+        "total_pagado": 50000,
+        "productos": [
+            {
+                "nombre": "comida para gatos",
+                "precio_unitario": 15000,
+                "cantidad": 1
+            },
+            {
+                "nombre": "comida para perro",
+                "precio_unitario": 25000,
+                "cantidad": 1
+            },
+            {
+                "nombre": "comida para gatos pequenos",
+                "precio_unitario": 10000,
+                "cantidad": 1
+            }
+        ]
+    }
+]

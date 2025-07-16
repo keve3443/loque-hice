@@ -1,0 +1,50 @@
+[
+    {
+        "id_transaccion": "20250714112504912945",
+        "usuario": "kevin",
+        "fecha": "2025-07-14 11:25:04",
+        "metodo_pago": "Efectivo",
+        "total_pagado": 50000,
+        "productos": [
+            {
+                "nombre": "comida para perro",
+                "precio_unitario": 25000,
+                "cantidad": 1
+            },
+            {
+                "nombre": "comida para gatos pequenos",
+                "precio_unitario": 10000,
+                "cantidad": 1
+            },
+            {
+                "nombre": "comida para gatos",
+                "precio_unitario": 15000,
+                "cantidad": 1
+            }
+        ]
+    },
+    {
+        "id_transaccion": "20250714115130039581",
+        "usuario": "kevin",
+        "fecha": "2025-07-14 11:51:30",
+        "metodo_pago": "Tarjeta Visa",
+        "total_pagado": 50000,
+        "productos": [
+            {
+                "nombre": "comida para perro",
+                "precio_unitario": 25000,
+                "cantidad": 1
+            },
+            {
+                "nombre": "comida para gatos pequenos",
+                "precio_unitario": 10000,
+                "cantidad": 1
+            },
+            {
+                "nombre": "comida para gatos",
+                "precio_unitario": 15000,
+                "cantidad": 1
+            }
+        ]
+    }
+]
